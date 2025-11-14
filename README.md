@@ -9,50 +9,35 @@ Here are some ideas to get you started:!-->
 
 **ESPAÑOL**
 
-**Científico de Datos** experimentado con +3 años en el análisis de datos y la inteligencia artificial, actualmente desempeñando roles como **Data Instructor** & **Manager Interviewer en TripleTen**, una plataforma líder en educación tecnológica. En mi posición como instructor, diseño y facilito cursos prácticos sobre análisis de datos, machine learning y visualización, ayudando a estudiantes a desarrollar competencias aplicables en el mundo real. Como Manager Interviewer, evalúo candidatos para roles de datos, asegurando la selección de talento alineado con las necesidades empresariales en un mercado cada vez más competitivo. Mi enfoque se centra en bridging la brecha entre la teoría y la práctica, fomentando el crecimiento profesional en un ecosistema impulsado por la innovación.
+**Analista de Datos** 
+Analista de Datos junior con 7 meses de experiencia en análisis de datos, especializada en la extracción, limpieza y visualización de datos. Experta en herramientas como SQL, Python (incluyendo bibliotecas como Pandas y NumPy) y Excel avanzado para el procesamiento y modelado de datos. Habilidades sólidas en visualización de datos con Tableau y Power BI, generando dashboards interactivos que optimizan el rendimiento operativo y revelan insights accionables. 
 
-**Habilidades Técnicas Clave:**
-- Dominio de lenguajes de programación como Python, R y SQL para manipulación y análisis de datos avanzados.
-- Expertise en Machine Learning y Deep Learning, incluyendo frameworks como TensorFlow, PyTorch y Scikit-learn para desarrollar modelos predictivos y sistemas de IA.
-- Proficiencia en Data Engineering y Big Data con herramientas como Apache Spark, Hadoop y bases de datos en la nube (AWS) para manejar volúmenes masivos de información.
-- Análisis estadístico avanzado y visualización de datos utilizando bibliotecas como NumPy, Pandas y herramientas como Tableau o Matplotlib para insights accionables.
-- Integración de AI y Automatización, incluyendo herramientas como ChatGPT para optimización de procesos y ethical AI deployment.
+Colaboradora proactiva en entornos ágiles, comprometida con la mejora continua y la entrega de resultados de alto impacto en entornos dinámicos.
 
-**Habilidades Blandas Clave:**
-- Comunicación efectiva para traducir insights complejos en narrativas claras y accesibles para stakeholders no técnicos.
-- Colaboración y trabajo en equipo, fomentando entornos multidisciplinarios en proyectos de datos.
-- Resolución de problemas y pensamiento crítico para abordar desafíos éticos y técnicos en entornos de datos dinámicos.
-- Adaptabilidad y aprendizaje continuo, manteniéndome al día con tendencias emergentes como AI generativa y edge computing.
-- Inteligencia emocional y liderazgo, especialmente en roles de mentoría e interviewing, para guiar equipos y candidatos hacia el éxito.
+**Hard Skills:**
 
-Apasionado por el impacto transformador de los datos, en TripleTen contribuyo a formar la próxima generación de profesionales en un campo que evoluciona rápidamente hacia la integración de IA ética y sostenible.
+⬩ Análisis y visualización de datos con Power BI, Tableau, Matplotlib, Seaborn y Excel avanzado implementando dashboards interactivos y reportes ejecutivos.
+⬩ Lenguajes de programación como Python (pandas, numpy, scipy, stats, scikit-learn) y SQL.
+⬩ Limpieza, transformación y modelado de datos (ETL)
+⬩ Estadística aplicada y conocimientos sólidos en analítica descriptiva, analítica predictiva y analítica prescriptiva.
+⬩ Comunicación de resultados y capacidad para traducir hallazgos técnicos en recomendaciones estratégicas por medio del storytelling con datos y visualizaciones efectivas.
+⬩ Entornos de trabajo como Jupyter Notebook, Google Colab, Visual Studio Code, My SQL, Anaconda
+
+**Soft Skills:**
+
+⬩ Pensamiento analítico y capacidad para identificar patrones, interpretar datos complejos y proponer soluciones basadas en evidencia, optimizando la toma de decisiones empresariales.
+⬩ Comunicación y habilidad para explicar hallazgos técnicos a audiencias no especializadas.
+⬩ Colaboración y trabajo en equipos de negocio, marketing y desarrollo promoviendo la colaboración transversal y la alineación con los objetivos estratégicos de la organización.
+⬩ Gestión del tiempo y capacidad para planificar y ejecutar múltiples proyectos analíticos.
+⬩ Curiosidad y actitud proactiva hacia la formación constante en nuevas herramientas, metodología y tecnologías de análisis de datos.
 
 ---
 
-**ENGLISH**
-
-**Data Scientist** experienced with +3 years in data analysis and artificial intelligence, currently playing roles as **Data Instructor** & **Manager Interviewer** at TripleTen, a leading technology education platform. In my position as an instructor, I design and facilitate workshops on data analytics, machine learning and visualization, helping students develop real-world skills. As an Interviewer Manager, I evaluate candidates for data roles, ensuring the selection of talent aligned with business needs in an increasingly competitive market. My focus is on bridging the gap between theory and practice, fostering professional growth in an innovation-driven ecosystem.
-
-**Key Technical Skills:**
-- Command of programming languages such as Python, R and SQL for advanced data manipulation and analysis.
-- Expertise in Machine Learning and Deep Learning, including frameworks such as TensorFlow, PyTorch and Scikit-learn to develop predictive models and AI systems.
-- Proficiency in Data Engineering and Big Data with tools such as Apache Spark, Hadoop and cloud databases (AWS) to handle massive volumes of information.
-- Advanced statistical analysis and data visualization using libraries like NumPy, Pandas and tools like Tableau or Matplotlib for actionable insights.
-- Integration of AI and Automation, including tools such as ChatGPT for process optimization and ethical AI deployment.
-
-**Soft Skills Key:**
-- Effective communication to translate complex insights into clear and accessible narratives for non-technical stakeholders.
-- Collaboration and teamwork, fostering multidisciplinary environments in data projects.
-- Problem solving and critical thinking to address ethical and technical challenges in dynamic data environments.
-- Adaptability and continuous learning, keeping up with emerging trends such as generative AI and edge computing.
-- Emotional intelligence and leadership, especially in mentoring and interviewing roles, to guide teams and candidates to success.
-
-Passionate about the transformative impact of data, at TripleTen I helped train the next generation of professionals in a rapidly evolving field of integrating ethical and sustainable AI.
 
 
 *   🌍 I'm based in México
 *   🖥️ See my portfolio at [DS_Projects](https://github.com/juliocmi?tab=repositories)
-*   ✉️ You can contact me at [mizzag@gmail.com](mailto:mizzag@gmail.com)
+*   ✉️ You can contact me at [mozart-neko@hotmail.com](mailto:mozart-neko@hotmail.com)
 *   🧠 I'm learning Amazon AWS
 *   🤝 I'm open to collaborating on Projects
 *   ⚡ I'm secretly Batman, don't tell everyone you know
